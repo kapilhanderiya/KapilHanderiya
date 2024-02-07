@@ -9,7 +9,7 @@ Myself, ***KAPIL HANDERIYA***, currently pursuing **B.Tech** in **Computer Scien
 |2024| B.Tech First Year|IIT GOA|
 
 ## Course @IIT Goa
-								`Spring Semester`
+							`Spring Semester`
 	
 
  - **CS102** -> Software Tools -- *Dr. Clint P George*
@@ -19,7 +19,8 @@ Myself, ***KAPIL HANDERIYA***, currently pursuing **B.Tech** in **Computer Scien
  - **EE101** -> Introduction to Electrical & Electronic Engineering -- *Dr. Bindhan Pramanik*
  - **BIO101** -> Introduction to Biology -- *Dr. Srinath Balakrishnan*
 			 
-								 `Autumn Semester`
+							`Autumn Semester`
+   
 1. **MA101** -> Calculus -- *Dr. Sandipan De*
 2. **PH101** -> Introduction to Quantum Physics -- *Dr. Santosh Kumar Das*
 3. **CS101** -> Introduction to Programming -- *Dr. Clint P George*
