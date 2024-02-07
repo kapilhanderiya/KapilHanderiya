@@ -1,7 +1,4 @@
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 ## ABOUT ME
 Myself, ***KAPIL HANDERIYA***, currently pursuing **B.Tech** in **Computer Science and Engineering** from **IIT GOA.** ![Kapil Handeriya](https://img.freepik.com/free-vector/it-takes-two-tango-idiom_1308-17930.jpg?w=900&t=st=1707283015~exp=1707283615~hmac=8c0d8d1495bcd7c44a3b00757611f33fd188a167a07fa5927f4cfd731958065f)
 ## Education
@@ -32,7 +29,7 @@ Myself, ***KAPIL HANDERIYA***, currently pursuing **B.Tech** in **Computer Scien
 ## Hobbies, Interests, Extracurricular Activities, Project
 
  1. Atheletics
-
+ 2. Reading
 
 <!--
 **kapilhanderiya/KapilHanderiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
